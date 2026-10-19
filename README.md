@@ -47,7 +47,7 @@ Download the latest APK from the Releases section of this repository and install
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/said-amal.git
+git clone [https://github.com/YOUR_USERNAME/said-amal.git](https://github.com/saiddeveloper660/said-amal)
 
 Go to the project directory:
 
