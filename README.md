@@ -105,3 +105,43 @@ See the "LICENSE" file for details.
 ⭐ If you find this project useful, consider giving it a star on GitHub.
 
 Said Amal — Simple. Useful. Islamic.
+## 📸 Screenshots
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/8042d2dc-6f19-43ef-87de-442f04da392f" width="220"/>
+</td>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/d6182298-0ab4-46e3-a06a-e97d9085df74" width="220"/>
+</td>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/5a13cbee-395e-4098-a130-3bbfdf9120ee" width="220"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/6cf3c6c8-c800-489e-96bf-c378ccd6405a" width="220"/>
+</td>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/b376b0e4-8f51-4fd3-8e06-eb4dd39a2354" width="220"/>
+</td>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/468bc314-7e28-480d-96f2-e10c1ffdf751" width="220"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/44759546-d73c-44a9-a037-59250241b051" width="220"/>
+</td>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/60f782ca-968e-4c8a-9684-5afed8a0c398" width="220"/>
+</td>
+</tr>
+</table>
+
+</div>
